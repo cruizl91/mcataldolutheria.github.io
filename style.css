@@ -46,7 +46,7 @@ header .logo img {
 }
 
 /* Ajuste opcional para móviles: */
-@media (max-width: 768px) {
+@media (max-width: 900px) {
     header .logo img {
         /* Reduce el tamaño del logo en pantallas pequeñas */
         max-width: 300px; 
